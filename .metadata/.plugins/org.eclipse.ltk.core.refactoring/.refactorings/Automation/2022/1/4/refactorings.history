@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;selenium.Hudl&apos; to &apos;DemoHudl&apos;&#x0D;&#x0A;- Original project: &apos;Automation&apos;&#x0D;&#x0A;- Original element: &apos;selenium.Hudl&apos;&#x0D;&#x0A;- Renamed element: &apos;selenium.DemoHudl&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Hudl&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;selenium{Hudl.java[Hudl" matchStrategy="1" name="DemoHudl" qualified="false" references="true" similarDeclarations="false" stamp="1642667265604" textual="false" version="1.0"/>
+</session>
